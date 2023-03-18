@@ -57,7 +57,8 @@ ul li a:hover::after{
     flex-basis: 50%;
 }
 .right-column img{
-    width: 100%;
+    width: 75%;
+    padding-left: 200px;
 }
 .search-box{
     width: 45%;
